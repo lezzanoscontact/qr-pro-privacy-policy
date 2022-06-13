@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Lezzanos-Apps built the QR-PRO + app as a Commercial app. This SERVICE is provided by Lezzanos-Apps and is intended for use as is.
+Lezzanos-Apps built the QR-PRO app as an Ad Supported app. This SERVICE is provided by Lezzanos-Apps at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -58,7 +58,7 @@ These Services do not address anyone under the age of 13. We do not knowingly co
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2022-06-13
+This policy is effective as of 2022-05-21
 
 **Contact Us**
 
