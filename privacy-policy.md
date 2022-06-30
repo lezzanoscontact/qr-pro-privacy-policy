@@ -20,6 +20,10 @@ Link to the privacy policy of third-party service providers used by the app
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 *   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+*   [Facebook](https://www.facebook.com/about/privacy/update/printable)
+*   [Unity](https://unity3d.com/legal/privacy-policy)
+*   [Vungle](https://vungle.com/privacy/)
+*   [AdColony](https://www.adcolony.com/privacy-policy/)
 
 **Log Data**
 
