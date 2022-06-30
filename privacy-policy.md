@@ -24,6 +24,8 @@ Link to the privacy policy of third-party service providers used by the app
 *   [Unity](https://unity3d.com/legal/privacy-policy)
 *   [Vungle](https://vungle.com/privacy/)
 *   [AdColony](https://www.adcolony.com/privacy-policy/)
+*   [Chartboost](https://answers.chartboost.com/en-us/articles/200780269/)
+*   [Tapjoy](https://www.tapjoy.com/legal/general/privacy-policy/)
 
 **Log Data**
 
