@@ -26,6 +26,7 @@ Link to the privacy policy of third-party service providers used by the app
 *   [AdColony](https://www.adcolony.com/privacy-policy/)
 *   [Chartboost](https://answers.chartboost.com/en-us/articles/200780269/)
 *   [Tapjoy](https://www.tapjoy.com/legal/general/privacy-policy/)
+*   [ironSource](https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/)
 
 **Log Data**
 
